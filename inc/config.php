@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 session_start();
 
 // Alamat URL
-define('URL', 'http://localhost/oop-praktikum-8/');
+define('URL', 'http://localhost/si-musicplayer-master/');
 
 // Alamat folder Asset
 define('ASSET', URL . 'layout/assets/');
